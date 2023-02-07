@@ -28,3 +28,4 @@ Things you may want to cover:
     Download the repository and run `bundle install`
 
 * ...
+# covid-observations
